@@ -394,8 +394,8 @@ const Portfolio = () => {
         return (
           <div className="bg-black border-4 border-gray-400 p-6 font-mono">
             <div className="text-center mb-6">
-              <h2 className="text-2xl text-yellow-400 mb-2">═══ KNOWLEDGE TREE ═══</h2>
-              <div className="text-green-400">▼ Academic & Learning Path ▼</div>
+              <h2 className="text-2xl text-yellow-400 mb-2">═══ DEGREE AND COURSES ═══</h2>
+              <div className="text-green-400">▼ Graduações e Cursos ▼</div>
             </div>
 
             <div className="space-y-6">
