@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//dev-mantovani.github.io/portfolio-rpg/static/css/main.d53bab67.css",
+    "main.js": "//dev-mantovani.github.io/portfolio-rpg/static/js/main.d66998d2.js",
+    "static/js/453.911b1fd6.chunk.js": "//dev-mantovani.github.io/portfolio-rpg/static/js/453.911b1fd6.chunk.js",
+    "index.html": "//dev-mantovani.github.io/portfolio-rpg/index.html",
+    "main.d53bab67.css.map": "//dev-mantovani.github.io/portfolio-rpg/static/css/main.d53bab67.css.map",
+    "main.d66998d2.js.map": "//dev-mantovani.github.io/portfolio-rpg/static/js/main.d66998d2.js.map",
+    "453.911b1fd6.chunk.js.map": "//dev-mantovani.github.io/portfolio-rpg/static/js/453.911b1fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d53bab67.css",
+    "static/js/main.d66998d2.js"
+  ]
+}
