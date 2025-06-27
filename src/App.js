@@ -405,7 +405,7 @@ const Portfolio = () => {
                   <h3 className="text-purple-400 text-lg">Análise e Desenvolvimento de Sistemas</h3>
                 </div>
                 <div className="text-yellow-300 mb-2">Universidade Norte do Paraná</div>
-                <div className="text-green-400 text-sm mb-3">Status: CONCLIDO</div>
+                <div className="text-green-400 text-sm mb-3">Status: CONCLUIDO</div>
                 <div className="text-gray-300 text-sm">
                   Formação em desenvolvimento de software, análise de sistemas, banco de dados e metodologias ágeis.
                 </div>
